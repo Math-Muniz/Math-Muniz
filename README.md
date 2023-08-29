@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 All of my projects are available at https://github.com/math-muniz<br><br>- 💬 Ask me about Data Science, Data Engineering, SQL, Python, Databases,  Data pipelines, Data infrastructure.<br><br> 📫 You can contact me via Linkedin or by email, just click below and get in touch.<br><br> 📄 Know about my experiences in: https://www.linkedin.com/in/math-muniz</p>
+<p align="left"> 👨‍💻 All of my projects are available at https://github.com/math-muniz<br><br> 💬 Ask me about Data Science, Data Engineering, SQL, Python, Databases,  Data pipelines, Data infrastructure.<br><br> 📫 You can contact me via Linkedin or by email, just click below and get in touch.<br><br> 📄 Know about my experiences in: https://www.linkedin.com/in/math-muniz</p>
 
 ###
 
