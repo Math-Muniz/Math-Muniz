@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> 👨‍💻 All of my projects are available at https://github.com/math-muniz<br><br> 💬 Ask me about Data Science, Data Engineering, SQL, Python, Databases,  Data pipelines, Data infrastructure.<br><br> 📫 You can contact me via Linkedin or by email, just click below and get in touch.<br><br> 📄 Know about my experiences in: https://www.linkedin.com/in/math-muniz</p>
+<p align="left">👨‍💻 All of my projects are available at: https://github.com/math-muniz<br><br>💬 Ask me about Data Science, Data Engineering, SQL, Python, Databases,  Data pipelines, Data infrastructure.<br><br>📫 You can contact me via Linkedin or by email, just click below and get in touch.<br><br>📄 Know about my experiences: https://www.linkedin.com/in/math-muniz</p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="math.muniz.damasco@gmail.com" target="_blank">
+  <a href="mailto:math.muniz.damasco@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/math-muniz/" target="_blank">
