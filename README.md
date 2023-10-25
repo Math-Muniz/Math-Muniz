@@ -1,17 +1,17 @@
-<h2 align="center">Hi 👋! My name is Matheus Muniz Damasco and I'm a Data Scientist, from Brasil.</h2>
+<h2 align="center">Oi 👋! Meu nome é Matheus Muniz Damasco e sou um Cientista de Dados.</h2>
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at: https://github.com/math-muniz<br><br>
-💬 Ask me about Data Science, Data Engineering, SQL, Python, Databases,  Data pipelines, Data infrastructure.<br><br>
-📖 I am working on a Roadmap in <b>Portuguese</b> for the <b>Data Area</b>.You can see in: https://github.com/Math-Muniz/Data-Roadmap/tree/main<br><br>
-📫 You can contact me via Linkedin or by email, just click below and get in touch.<br><br>
-📄 Know about my experiences: https://www.linkedin.com/in/math-muniz<br><br>
+<p align="left">👨‍💻 Todos os meus projetos feitos estão disponibilizados no meu GitHub: https://github.com/math-muniz<br><br>
+💬 Pode me perguntar sobre Ciência de Dados, Engenharia de Dados, Python, Banco de Dados (SQL e NoSQL), Pipeline de Dados , Infrastrutura de Dados.<br><br>
+📖 Estou trabalhando na criação de um Roadmap em <b>Português</b> para a <b>Área de Dados</b>.Você pode visualizar neste repositório: https://github.com/Math-Muniz/Data-Roadmap/tree/main<br><br>
+📫 Você pode entrar em contato comigo pelo Linkedin ou pelo meu e-mail, só clicar abaixo.<br><br>
+📄 Saiba mais sobre minhas experiências: https://www.linkedin.com/in/math-muniz<br><br>
 </p>
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">My Github Stats:</h3>
+<h3 align="left">Status do meu GitHub:</h3>
 
 ###
 
