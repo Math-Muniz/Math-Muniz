@@ -115,8 +115,7 @@
   </div>
 </div>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="200"/>
-   <h3>Obrigado pela sua visita, e de nada! Se você tiver mais perguntas ou precisar de mais assistência, sinta-se à vontade para perguntar. Você pode se conectar comigo abaixo.</h3>
+   <h3>Obrigado pela sua visita, você é sempre bem-vindo! Se você tiver mais perguntas ou precisar de mais assistência, sinta-se à vontade para perguntar. Você pode se conectar comigo abaixo.</h3>
     <a href="https://www.linkedin.com/in/math-muniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:math.muniz.damasco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.kaggle.com/mathmuniz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
