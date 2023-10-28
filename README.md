@@ -14,7 +14,7 @@
 
 <h3>Welcome, come here and take a coffee ☕!</h3>
 
-<h3>I have a postgraduate degree in Big Data Analytics and Data Science, and I'd like to share some of my study projects.</h3>h3>
+<h3>I have a postgraduate degree in Big Data Analytics and Data Science, and I'd like to share some of my study projects.</h3>
 
  <div id="header" align="center">
   <a href="https://github.com/Math-Muniz?tab=repositories">
@@ -103,26 +103,22 @@
    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
  </div>
 </div>
-<h3>📊 My Stats:</h3>
-<center>
-  <table>
-    <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Muniz&hide=html&layout=compact&theme=dracula" /></td> 
-
-  </table>
-</center>  
-
-
+<div>
+ <h3>📊 My Stats:</h3>
+ <center>
+   <table>
+     <tr>
+       <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Muniz&hide=html&layout=compact&theme=dracula" /></td>
+       <td><img width="350px" align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" /></td> 
+   </table>
+ </center>  
+</div>
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="200"/>
- 
-#### *Thank you for your visit, close the door when you leave!*  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <h3> Thank you for your visit, close the door when you leave! You</h3>
   <a href="https://www.linkedin.com/in/math-muniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:math.muniz.damasco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/mathmuniz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@math-muniz" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-
 </div>
-
 </div>
