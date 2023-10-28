@@ -1,15 +1,15 @@
 <div align="center">
-<a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md">English Version</a> | <a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md">Versão em Português</a>
+ <a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md">English Version</a> | <a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md">Versão em Português</a>
 </div>
 
 <div align="center">
-<a href="https://github.com/Math-Muniz?tab=repositories">
- <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png" alt="capa">
-</a>
+ <a href="https://github.com/Math-Muniz?tab=repositories">
+  <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png" alt="capa">
+ </a>
 </div>
 
 <div align="center">
-
+ 
 <h1 align="center"> Matheus Muniz Damasco</h1>
 
 <h3>Welcome, come here and take a coffee ☕!</h3>
@@ -56,7 +56,12 @@
 </div>
 <h2>⚡ Main Repositories:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Math-Muniz&repo=Data-Roadmap\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Math-Muniz/Data-Roadmap) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Math-Muniz&repo=Stock-Market-App\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Math-Muniz/Stock-Market-App)
+ <a href="https://github.com/Math-Muniz/Data-Roadmap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-Muniz&repo=Data-Roadmap&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Data Roadmap">
+ </a>
+ <a href="https://github.com/Math-Muniz/Stock-Market-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-Muniz&repo=Stock-Market-App&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Stock Market App">
+ </a>
 
 <h2>🚀 Languages and Tools:</h2>
 
