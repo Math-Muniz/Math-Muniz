@@ -1,4 +1,4 @@
-[English Version:](https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md) | [Versão em Português](https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md)
+[English Version](https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md) | [Versão em Português](https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md)
 
 [![capa](https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png)](https://github.com/Math-Muniz?tab=repositories)
 
@@ -10,12 +10,12 @@
 
  ### Welcome, come here and take a coffee ☕!
 
-I'm a Postgraduate in **Big Data Analytics and Data Science**. Here are some of my study projects.
- 
-Sou Pós Graduado em **Big Data Analytics and Data Science**. Aqui estão alguns dos meus projetos de estudo.
+I'm Postgraduate in **Big Data Analytics and Data Science**. Here are some of my study projects.
 
  <div id="header" align="center">
-  <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
+  <a href="https://github.com/Math-Muniz?tab=repositories">
+   <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
+  </a>
  </div>
  
 </a>
