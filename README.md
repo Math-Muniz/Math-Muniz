@@ -1,11 +1,12 @@
 <div align="center">
 <a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md">English Version</a> | <a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md">Versão em Português</a>
 </div>
+
+<div align="center">
 <a href="https://github.com/Math-Muniz?tab=repositories">
  <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png" alt="capa">
 </a>
-
----
+</div>
 
 <div align="center">
 
