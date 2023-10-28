@@ -1,96 +1,102 @@
+([Inglês](https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md)) | ([Português](https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md))
+
 [![capa](https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png)](https://github.com/SarahFeanor?tab=repositories)
-
-###
-
-<h2 align="center">Oi 👋! Meu nome é Matheus Muniz Damasco e sou um Cientista de Dados.</h2>
-
-###
-
-<p align="left">👨‍💻 Todos os meus projetos feitos estão disponibilizados no meu GitHub: https://github.com/math-muniz<br><br>
-💬 Pode me perguntar sobre Ciência de Dados, Engenharia de Dados, Python, Banco de Dados (SQL e NoSQL), Pipeline de Dados , Infrastrutura de Dados.<br><br>
-📖 Estou trabalhando na criação de um Roadmap em <b>Português</b> para a <b>Área de Dados</b>.Você pode visualizar neste repositório: https://github.com/Math-Muniz/Data-Roadmap/tree/main<br><br>
-📫 Você pode entrar em contato comigo pelo Linkedin ou pelo meu e-mail, só clicar abaixo.<br><br>
-📄 Saiba mais sobre minhas experiências: https://www.linkedin.com/in/math-muniz<br><br>
-</p>
-
-###
-
-<h3 align="left">Conecte-se comigo:</h3>
-
-###
+---
 
 <div align="center">
-  <a href="mailto:math.muniz.damasco@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/math-muniz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+ # Matheus Muniz Damasco
+
+ ### Welcome, come here and take a coffee ☕!
+
+I'm a Postgraduate in **Big Data Analytics and Data Science**. Here are some of my study projects.
+ 
+Sou Pós Graduado em **Big Data Analytics and Data Science**. Aqui estão alguns dos meus projetos de estudo.
+
+ <div id="header" align="center">
+  <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
+ </div>
+ 
+</a>
 </div>
 
-###
+👋 Olá, eu sou Matheus Muniz Damasco! Sempre estudei a área de dados com foco em transformar informações em insights valiosos, visando sempre a melhor estrátegia para a . Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos.
 
-<h3 align="left">Linguagens e Ferramentas</h3>
+🔍 Como Analista de Dados, meu objetivo é desvendar padrões ocultos nos dados e contar histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados que abordam desde previsões de tendências até a segmentação de clientes, bem como aplicações práticas no Power BI que simplificam dados complexos em insights claros.
 
-###
+🛠️ Minhas Hard Skills:
+- Manipulação de dados com Python (pandas, numpy)
+- Análise estatística e modelagem (scikit-learn, statsmodels)
+- Visualização de dados (Matplotlib, Seaborn, Power BI)
+- SQL para consultas e análises de bancos de dados
+- Limpeza e preparação de dados para insights confiáveis
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+🤝 Minhas Soft Skills:
+- Pensamento analítico e resolução de problemas
+- Comunicação clara de resultados complexos
+- Curiosidade para explorar e descobrir tendências
+- Trabalho em equipe para colaborar em projetos multidisciplinares
+- Foco em detalhes para garantir precisão nas análises
+
+🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
+
+## ⚡ **Principais Repositórios:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
+
+## 🚀 **Languages and Tools:**
+
+ #### 💻 Uso diário (daily use):
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
+ ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
+ 
+ #### 🎲 Ciência de dados (data science):
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-squareflat-square&logo=Numpy)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
+ 
+ 
+ #### 📚 Tenho conhecimento básico (basic knowledge):
+ 
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+ ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+
+ 
+ #### 🌱 Estou aprendendo (I'm learning):
+ 
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
+ ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+ ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
+
+## 📊 **My Stats:**
+<center>
+  <table>
+    <tr>
+        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td> 
+
+  </table>
+</center>  
+
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="200"/>
+
+ 
+ 
+#### *Thank you for your visit, close the door when you leave!*  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+  <a href="https://www.linkedin.com/in/sarahfrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:sarahfrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+
+
 </div>
 
-###
-
-<h3 align="left">Status do meu GitHub:</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=math-muniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=math-muniz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
