@@ -1,3 +1,7 @@
+[![capa](https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png)](https://github.com/SarahFeanor?tab=repositories)
+
+###
+
 <h2 align="center">Oi 👋! Meu nome é Matheus Muniz Damasco e sou um Cientista de Dados.</h2>
 
 ###
