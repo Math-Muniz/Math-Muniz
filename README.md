@@ -1,3 +1,10 @@
+<div id="header" align="center">
+    <a href="https://www.linkedin.com/in/math-muniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:math.muniz.damasco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.kaggle.com/mathmuniz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+    <a href="https://medium.com/@math-muniz" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+</div>
+
 <div align="center">
   <a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md">English Version</a> |
   <a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md">Versão em Português</a>
