@@ -1,6 +1,8 @@
-[English Version](https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md) | [Versão em Português](https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md)
+<a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README.md">English Version</a> | <a href="https://github.com/Math-Muniz/Math-Muniz/blob/main/README-pt.md">Versão em Português</a>
 
-[![capa](https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png)](https://github.com/Math-Muniz?tab=repositories)
+<a href="https://github.com/Math-Muniz?tab=repositories">
+ <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png" alt="capa">
+</a>
 
 ---
 
@@ -72,9 +74,8 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git" alt="Git">
 <img src="https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github" alt="Github">
 <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code" alt="VS CODE">
- 
+<div>
  <h3>📚 Basic Knowledge:</h3>
- 
  <img src="https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks" alt="Databricks">
  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop">
  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
@@ -84,7 +85,8 @@
  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-
+ </div>
+<div>
  <h3>🌱 I'm learning:</h3>
 
  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
@@ -92,7 +94,7 @@
  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Spark">
  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-
+</div>
 <h3>📊 My Stats:</h3>
 <center>
   <table>
