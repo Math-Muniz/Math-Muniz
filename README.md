@@ -56,47 +56,42 @@
 
 <h2>🚀 Languages and Tools:</h2>
 
-<h3>💻 Daily Use:</h3>
+<h3>💻 Knowledge:</h3>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI" alt="Power BI">
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git" alt="Git">
 <img src="https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github" alt="Github">
 <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code" alt="VS CODE">
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
- 
-<h3>🎲 Data Science:</h3>
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-squareflat-square&logo=Numpy)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
- 
  
  <h3>📚 Basic Knowledge:</h3>
- <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
- ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+ 
+ <img src="https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks" alt="Databricks">
+ <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop">
+ <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+ <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+ <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow">
+ <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka">
+ <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+ <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 
- 
  <h3>🌱 I'm learning:</h3>
- 
- <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
- ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
- ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
+
+ <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+ <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+ <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Spark">
+ <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+ <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 
 <h3>📊 My Stats:</h3>
 <center>
