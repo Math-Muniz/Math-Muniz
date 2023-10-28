@@ -108,8 +108,11 @@
  <center>
    <table>
      <tr>
-       <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Muniz&hide=html&layout=compact&theme=dracula" /></td>
-       <td><img width="350px" align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" /></td> 
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=math-muniz&show_icons=true&locale=en&layout=compact" alt="math-muniz" /></p>
+   
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=math-muniz&show_icons=true&locale=en" alt="math-muniz" /></p>
+   
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=math-muniz&" alt="math-muniz" /></p>
    </table>
  </center>  
 </div>
