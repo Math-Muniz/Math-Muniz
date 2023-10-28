@@ -39,9 +39,8 @@
     <li>Data manipulation with Python (pandas, numpy)</li>
     <li>Statistical analysis and modeling (Scikit-Learn, Keras, and TensorFlow)</li>
     <li>Data visualization (Matplotlib, Seaborn, Power BI, Tableau)</li>
-    <li>Proficiency in SQL for database queries and analysis (including advanced query optimization and performance tuning)</li>
+    <li>Proficiency in SQL and NoSQL for database queries and analysis (including advanced query optimization and performance tuning)</li>
     <li>Cloud Computing using AWS, GCP, or Azure (deploying and managing cloud resources, configuring virtual machines, and utilizing cloud services for data processing and storage)</li>
-    <li>NoSQL databases (MongoDB)</li>
     <li>Containerization with Docker (creating, managing, and orchestrating containers for efficient development and deployment)</li>
     <li>Version control with Git/Github (collaborative software development, branching, and merging)</li>
     <li>Operating Systems (proficiency in MacOS and Linux environments)</li>
