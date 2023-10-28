@@ -14,7 +14,7 @@
 
   <h3>Welcome, come here and take a coffee ☕!</h3>
 
-  <h3>I have a postgraduate degree in Big Data Analytics and Data Science, and I'd like to share some of my study projects and you can connect with me below.</h3>
+  <h3>I'm Postgraduate in Big Data Analytics and Data Science, and I'd like to share some of my study projects and you can connect with me below.</h3>
   
   <div id="header" align="center">
     <a href="https://www.linkedin.com/in/math-muniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,7 +32,7 @@
 <div>
   <p>👋 Hello, I'm Matheus Muniz Damasco! My professional journey is driven by a passion for exploring the vast world of data and turning it into valuable insights. My goal is to build a solid career in the field of Data Science, always striving to uncover hidden patterns and tell compelling stories through data analysis.</p>
 
-  <p>🔍 As a Data Scientist, I have a strong willingness to take on new responsibilities and develop competencies in the field. My portfolio includes more than 30 projects in the Data field, ranging from trend forecasting to customer segmentation, demonstrating my ability to apply solid Knowledge of Excel, SQL & Database Design, Machine Learning, Cloud Computing, Programming Languages, Product Sense, ETL, Operational Systems, Big Data, Data Visualization Tools, and Version Control.</p>
+  <p>🔍 As a Data Scientist, I have a strong willingness to take on new responsibilities and develop competencies in the field. My portfolio includes more than 30 projects in the Data field, demonstrating my ability to apply solid Knowledge of Excel, NoSQL, SQL & Database Design, Machine Learning, Cloud Computing, Programming Languages, Product Sense, ETL, Operational Systems, Big Data, Data Visualization Tools, and Version Control.</p>
 
   <h2>🛠️ Hard Skills:</h2>
   <ul>
