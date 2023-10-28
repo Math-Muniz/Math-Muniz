@@ -57,6 +57,11 @@
 <h2>🚀 Languages and Tools:</h2>
 
 <h3>💻 Daily Use:</h3>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git" alt="Git">
+<img src="https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github" alt="Github">
+<img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code" alt="VS CODE">
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
@@ -64,13 +69,18 @@
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
  
 <h3>🎲 Data Science:</h3>
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-squareflat-square&logo=Numpy)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
  
  
  <h3>📚 Basic Knowledge:</h3>
- 
+ <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
+ <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
+ <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
@@ -78,6 +88,10 @@
  
  <h3>🌱 I'm learning:</h3>
  
+ <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
+ <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
+ <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
+ <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS" alt="AWS">
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
@@ -102,7 +116,7 @@
   <a href="https://www.linkedin.com/in/math-muniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:math.muniz.damasco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/mathmuniz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-
+  <a href="https://medium.com/@math-muniz" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 </div>
 
