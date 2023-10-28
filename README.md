@@ -105,13 +105,10 @@
 </div>
 <div>
  <h3>📊 My Stats:</h3>
- <center>
-   <table>
-     <tr>
-      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=math-muniz&" alt="math-muniz" /></td>
-      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=math-muniz&show_icons=true&locale=en&layout=compact" alt="math-muniz" /></td>
-   </table>
- </center>  
+  <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=math-muniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img src="https://streak-stats.demolab.com?user=math-muniz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </div>
 </div>
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="200"/>
