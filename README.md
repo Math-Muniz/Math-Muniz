@@ -6,11 +6,11 @@
 
 <div align="center">
 
- # Matheus Muniz Damasco
+<h1 align="center"> Matheus Muniz Damasco</h1>
 
- ### Welcome, come here and take a coffee ☕!
+<h3>Welcome, come here and take a coffee ☕!</h3>
 
-I'm Postgraduate in **Big Data Analytics and Data Science**. Here are some of my study projects.
+<h3>I have a postgraduate degree in Big Data Analytics and Data Science, and I'd like to share some of my study projects.</h3>h3>
 
  <div id="header" align="center">
   <a href="https://github.com/Math-Muniz?tab=repositories">
@@ -20,54 +20,63 @@ I'm Postgraduate in **Big Data Analytics and Data Science**. Here are some of my
  
 </a>
 </div>
+<div>
+<p>👋 Hello, I'm Matheus Muniz Damasco! My professional journey is driven by a passion for exploring the vast world of data and turning it into valuable insights. My goal is to build a solid career in the field of Data Science, always striving to uncover hidden patterns and tell compelling stories through data analysis.</p>
 
-👋 Olá, eu sou Matheus Muniz Damasco! Sempre estudei a área de dados com foco em transformar informações em insights valiosos, visando sempre a melhor estrátegia para a . Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos.
+<p>🔍 As a Data Scientist, I have a strong willingness to take on new responsibilities and develop competencies in the field. My portfolio includes more than 30 projects in the Data field, ranging from trend forecasting to customer segmentation, demonstrating my ability to apply solid Knowledge of Excel, SQL & Database Design, Machine Learning, Cloud Computing, Programming Languages, Product Sense, ETL, Operational Systems, Big Data, Data Visualization Tools, and Version Control.</p>
 
-🔍 Como Analista de Dados, meu objetivo é desvendar padrões ocultos nos dados e contar histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados que abordam desde previsões de tendências até a segmentação de clientes, bem como aplicações práticas no Power BI que simplificam dados complexos em insights claros.
+<h2>🛠️ Hard Skills:</h2>
+<ul>
+ <li>Data manipulation with Python (pandas, numpy)</li>
+ <li>Statistical analysis and modeling (Scikit-Learn, Keras, and TensorFlow)</li>
+ <li>Data visualization (Matplotlib, Seaborn, Power BI, Tableau)</li>
+ <li>Proficiency in SQL for database queries and analysis (including advanced query optimization and performance tuning)</li>
+ <li>Cloud Computing using AWS, GCP, or Azure (deploying and managing cloud resources, configuring virtual machines, and utilizing cloud services for data processing and storage)</li>
+ <li>NoSQL databases (MongoDB)</li>
+ <li>Containerization with Docker (creating, managing, and orchestrating containers for efficient development and deployment)</li>
+ <li>Version control with Git/Github (collaborative software development, branching, and merging)</li>
+ <li>Operating Systems (proficiency in MacOS and Linux environments)</li>
+</ul>
 
-🛠️ Minhas Hard Skills:
-- Manipulação de dados com Python (pandas, numpy)
-- Análise estatística e modelagem (scikit-learn, statsmodels)
-- Visualização de dados (Matplotlib, Seaborn, Power BI)
-- SQL para consultas e análises de bancos de dados
-- Limpeza e preparação de dados para insights confiáveis
+<h2>🤝 Soft Skills:</h2>
+<ul>
+ <li><b>Analytical Skills and Perfectionism:</b> I strive for excellence in every detail, applying my analytical skills to approach problems in diverse ways and achieve the best possible results.</li>
+ <li><b>Continuous Learning and Adaptability:</b> I am constantly seeking new concepts, exploring books, podcasts, and enhancing my academic background, which strengthens my skills and knowledge in the field. This continuous learning mindset is crucial in a constantly evolving field like Data Science.</li>
+ <li><b>Stress Resilience:</b> I maintain composure in high-pressure situations, a crucial quality for overcoming challenges in the field of Data Science, where various complex variables and diverse issues exist.</li>
+ <li><b>Clear Communication and Positive Influence:</b> I possess clear and diplomatic communication skills, enabling me to effectively resolve situations and positively influence people, facilitating communication with clients, stakeholders, and workgroups.</li>
+ <li><b>Enthusiasm and Dedication:</b> Contagious energy and unwavering dedication to professional activities are essential traits for facing the challenges of Data Science.</li>
+</ul>
 
-🤝 Minhas Soft Skills:
-- Pensamento analítico e resolução de problemas
-- Comunicação clara de resultados complexos
-- Curiosidade para explorar e descobrir tendências
-- Trabalho em equipe para colaborar em projetos multidisciplinares
-- Foco em detalhes para garantir precisão nas análises
+<p>🚀 I am always in pursuit of exciting challenges and opportunities for continuous learning. Let's connect and explore the world of data together!</p>
 
-🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
-
-## ⚡ **Principais Repositórios:**
+</div>
+<h2>⚡ Main Repositories:</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
 
-## 🚀 **Languages and Tools:**
+<h2>🚀 Languages and Tools:</h2>
 
- #### 💻 Uso diário (daily use):
+<h3>💻 Daily Use:</h3>
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
  
- #### 🎲 Ciência de dados (data science):
+<h3> 🎲 Data Science:</h3>
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-squareflat-square&logo=Numpy)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
  
  
- #### 📚 Tenho conhecimento básico (basic knowledge):
+ <h3>📚 Basic Knowledge:</h3>h3>
  
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
  
- #### 🌱 Estou aprendendo (I'm learning):
+ <h3>🌱 I'm learning:</h3>
  
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
@@ -75,7 +84,7 @@ I'm Postgraduate in **Big Data Analytics and Data Science**. Here are some of my
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
-## 📊 **My Stats:**
+<h3>📊 My Stats:</h3>
 <center>
   <table>
     <tr>
