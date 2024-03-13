@@ -5,7 +5,6 @@
 <hr>
 <div align="center">
   <a href="https://github.com/Math-Muniz?tab=repositories">
-    <img src="" alt="capa">
   </a>
 </div>
 
