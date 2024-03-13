@@ -5,7 +5,7 @@
 <hr>
 <div align="center">
   <a href="https://github.com/Math-Muniz?tab=repositories">
-    <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png" alt="capa">
+    <img src="" alt="capa">
   </a>
 </div>
 
