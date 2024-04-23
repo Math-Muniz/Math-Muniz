@@ -61,8 +61,8 @@
 <a href="https://github.com/Math-Muniz/Data-Roadmap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-Muniz&repo=Data-Roadmap&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Data Roadmap">
 </a>
-<a href="https://github.com/Math-Muniz/Stock-Market-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-Muniz&repo=Stock-Market-App&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Stock Market App">
+<a href="https://github.com/Math-Muniz/iFood-Adatech-Data-Bootcamp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-Muniz&repo=iFood-Adatech-Data-Bootcamp&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="iFood Bootcamp Dados">
 </a>
 <div>
 <h2>🚀 Languages and Tools:</h2>
